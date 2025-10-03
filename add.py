@@ -1,5 +1,5 @@
 def add(a, b):
     return a + b
   
-# pip install pytest
+# pip3 install pytest
 # pytest test_add.py
